@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">NicerUserForm</string>
+    <string name="forgot_password">FORGOT PASSWORD?</string>
+    <string name="todo">TODO</string>
+    <string name="login">LOGIN</string>
+    <string name="register">REGISTER</string>
+    <string name="nice_user_form">Nice User Form</string>
+    <string name="login_minusculas">Login</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="repeat_password">Repeat Password</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="date">Date</string>
+    <string name="accept_termps_and_conditions">Accept Termps and Conditions</string>
+
+    <string-array name="pronouns">
+        <item>Gender Pronoun</item>
+        <item>Pronoun 1</item>
+        <item>Pronoun 2</item>
+    </string-array>
+</resources>
